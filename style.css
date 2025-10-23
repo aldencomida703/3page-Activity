@@ -165,6 +165,9 @@ footer {
     color: #26658c;
     margin-top: 60px;
 }
+footer p{
+    font-size: 15px;
+}
 .contacts {
     display: flex;
     justify-content: center;
@@ -175,5 +178,6 @@ footer {
     text-align: center;
 
 }
+
 
 
