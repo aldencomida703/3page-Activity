@@ -166,7 +166,7 @@ footer {
     margin-top: 60px;
 }
 footer p{
-    font-size: 15px;
+    font-size: 8px;
 }
 .contacts {
     display: flex;
@@ -178,6 +178,7 @@ footer p{
     text-align: center;
 
 }
+
 
 
 
